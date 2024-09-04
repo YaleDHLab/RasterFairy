@@ -1,3 +1,6 @@
+# Note: This repository has been archived
+This branch of Mario Klingemann's RasterFairy was developed under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Computational Methods and Data department, the Lab no longer includes this branch in its scope of work. As such, it will receive no further updates.
+
 # RasterFairy
 The purpose of Raster Fairy is to transform any kind of 2D point cloud into a regular raster whilst trying to preserve the neighborhood relations that were present in the original cloud. A typical use case is if you have a similarity clustering of images and want to show the images in a regular table structure.
 
